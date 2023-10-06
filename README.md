@@ -4,7 +4,7 @@
 
 Voici les dépendances dont vous avez besoin pour l'installation :
 - Node.js v18.16.0
-
+- Nodemon v3.0.1
 Exécutez `npm install`,
 Exécutez `nodemon install`,
 
