@@ -1,33 +1,31 @@
-# HOT TAKES API#
+# API DES AVIS BRÛLANTS #
 
 ## Installation ##
 
-Here are the dependancies you need to install:
+Voici les dépendances dont vous avez besoin pour l'installation :
 - Node.js v18.16.0
 
-Run `npm install`,
-Run `nodemon install`,
+Exécutez `npm install`,
+Exécutez `nodemon install`,
 
 
-## Usage ##
+## Utilisation ##
 
-Run `nodemon server`. This should run the local server (check the terminal should tell : "Listening on port ....
-Connexion à MongoDB réussie !").
+Exécutez `nodemon server`. Cela devrait lancer le serveur local (vérifiez le terminal pour voir : "Écoute sur le port .... Connexion à MongoDB réussie !").
 
-Use `Ctrl+C` in the terminal to stop the local server.
-
+Utilisez `Ctrl+C` dans le terminal pour arrêter le serveur local.
 
 
-##   Faire tourner le Backend
 
-    Ouvrir le terminal sur le Backend.
-    Pour utiliser le serveur, chargez le package nodemon : npm install -g nodemon.
-    Puis lancez le serveur: nodemon server.
+##   Exécuter le Backend
 
-Pour faire court
+ Ouvrez le terminal dans le dossier Backend.
+ Pour utiliser le serveur, installez le package nodemon : `npm install -g nodemon`. Ensuite, démarrez le serveur : `nodemon server`.
 
-Si les packages sont déja installés, ces commandes suffisent à démarrer les serveurs.
+Pour simplifier
 
-    npm start via le terminal sur le frontend
-    nodemon server via le terminal sur le backend
-    Se connecter à l'url : http://localhost:4200
+Si les packages sont déjà installés, ces commandes suffisent pour lancer les serveurs.
+
+ `npm start` via le terminal dans le dossier Frontend
+ `nodemon server` via le terminal dans le dossier Backend
+ Accédez à l'URL : `http://localhost:4200`
