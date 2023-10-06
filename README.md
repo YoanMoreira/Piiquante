@@ -8,7 +8,8 @@ Voici les dépendances dont vous avez besoin pour l'installation :
 
 ## Utilisation ##
 
-Exécutez `nodemon server`. Cela devrait lancer le serveur local (vérifiez le terminal pour voir : "Écoute sur le port .... Connexion à MongoDB réussie !").
+Exécutez `nodemon server`. 
+Cela devrait lancer le serveur local (vérifiez le terminal pour voir : "Écoute sur le port .... Connexion à MongoDB réussie !").
 
 Utilisez `Ctrl+C` dans le terminal pour arrêter le serveur local.
 
@@ -17,7 +18,8 @@ Utilisez `Ctrl+C` dans le terminal pour arrêter le serveur local.
 ##   Exécuter le Backend
 
  Ouvrez le terminal dans le dossier Backend.
- Pour utiliser le serveur, installez le package nodemon : `npm install -g nodemon`. Ensuite, démarrez le serveur : `nodemon server`.
+ Pour utiliser le serveur, installez le package nodemon :
+`npm install -g nodemon`. Ensuite, démarrez le serveur : `nodemon server`.
 
 Pour simplifier
 
